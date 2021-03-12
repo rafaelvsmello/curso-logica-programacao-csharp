@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo_Vetor_3", "Exemplo_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo_Vetor_4", "Exemplo_Vetor_4\Exemplo_Vetor_4.csproj", "{76D5BFC2-E273-4D71-80B8-0FE7E78EB5E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo_Vetor_5", "Exemplo_Vetor_5\Exemplo_Vetor_5.csproj", "{F27729FA-088B-47BB-B612-BB53D043A03E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -259,6 +261,10 @@ Global
 		{76D5BFC2-E273-4D71-80B8-0FE7E78EB5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76D5BFC2-E273-4D71-80B8-0FE7E78EB5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76D5BFC2-E273-4D71-80B8-0FE7E78EB5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27729FA-088B-47BB-B612-BB53D043A03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27729FA-088B-47BB-B612-BB53D043A03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27729FA-088B-47BB-B612-BB53D043A03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27729FA-088B-47BB-B612-BB53D043A03E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
